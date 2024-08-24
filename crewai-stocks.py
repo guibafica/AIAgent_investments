@@ -65,6 +65,7 @@ getStockPrice = Task(
 )
 
 # SEARCH TOOL IMPORT
+os.environ['OPENAI_API_KEY'] = "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"
 search_tool = DuckDuckGoSearchResults(backend = 'news' , num_results = 10)
 
 newsAnalyst = Agent(

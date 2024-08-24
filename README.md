@@ -6,27 +6,14 @@ This project is a study tool that uses AI agents equipped with various analytica
 
 Please note that these insights are intended solely for educational purposes and should not be considered as actual investment advice.
 
-<!-- ## Project presentation
+## Project presentation
 
 <img
   alt="AI Agent Investments"
   title="AI Agent Investments' presentation gif"
-  src="./src/assets/presentationGif.gif"
+  src="./assets/presentationGif.gif"
   height="425"
-/> -->
-
-<!--
-## Functionalities
-
-- Main
-
-  - Esse cillum proident esse enim id ipsum quis duis eu commodo ad ex.
-  - Nulla magna elit occaecat id quis ad proident ullamco amet anim nulla pariatur.
-
-- Secondary
-
-  - Nisi sit adipisicing eiusmod ut magna anim ex amet pariatur ullamco irure cillum reprehenderit.
-  - Fugiat tempor ex laborum. -->
+/>
 
 ## Used Techs
 
